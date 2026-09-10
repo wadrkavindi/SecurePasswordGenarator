@@ -71,17 +71,17 @@ The password history contains:
 
 ## Application Screenshots
 
-### Main Menu
-
-![Main Menu](./screenshots/main-menu.png/Screenshot%202026-09-10%20135003.png)
-
 ### Generate Password
 
-![Generate Password](./screenshots/generate-password.png/Screenshot%202026-09-10%20134811.png)
+![Generate Password](screenshorts/generate-password.png/Screenshot%202026-09-10%20134811.png)
+
+### Main Menu
+
+![Main Menu](screenshorts/main-menu.png/Screenshot%202026-09-10%20135003.png)
 
 ### Password History
 
-![Password History](./screenshots/password-history.png/Screenshot%202026-09-10%20134836.png)
+![Password History](screenshorts/password-history.png/Screenshot%202026-09-10%20134836.png)
 
 ## Author
 
