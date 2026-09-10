@@ -73,15 +73,15 @@ The password history contains:
 
 ### Main Menu
 
-![Main Menu](https://raw.githubusercontent.com/wadrkavindi/SecurePasswordGenerator/master/screenshots/main-menu.png/Screenshot%202026-09-10%20135003.png)
+![Main Menu](screenshots/main-menu.png)
 
 ### Generate Password
 
-![Generate Password](https://raw.githubusercontent.com/wadrkavindi/SecurePasswordGenerator/master/screenshots/generate-password.png/Screenshot%202026-09-10%20134811.png)
+![Generate Password](screenshots/generate-password.png)
 
 ### Password History
 
-![Password History](https://raw.githubusercontent.com/wadrkavindi/SecurePasswordGenerator/master/screenshots/password-history.png/Screenshot%202026-09-10%2013436.png)
+![Password History](screenshots/password-history.png)
 
 ## Author
 
