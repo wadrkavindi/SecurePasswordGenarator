@@ -69,6 +69,20 @@ The password history contains:
 - Password Strength
 - Created Date
 
+## Application Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/main-menu.png)
+
+### Generate Password
+
+![Generate Password](screenshots/generate-password.png)
+
+### Password History
+
+![Password History](screenshots/password-history.png)
+
 ## Author
 
 W.A.D. Raveesha Kavindi
